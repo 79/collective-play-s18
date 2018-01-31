@@ -30,21 +30,10 @@ var inputs = io.of('/input');
 inputs.on('connection', function(socket){
   console.log('An input client connected: ' + socket.id);
 
-  // Listen for username
-  socket.on('username', function(username){
-    let message = {
-      id : socket.id,
-      username : username,
-    }
-
-    // Send it to all of the output clients
-    outputs.emit('username', message);
-  })
-
-  // Listen for data messages from this client
+  // Listen for data
   socket.on('data', function(data) {
     // Data comes in as whatever was sent, including objects
-    //console.log("Received: 'data' " + data);
+    //console.log("Received: 'message' " + data);
 
     let message = {
       id: socket.id,

@@ -1,5 +1,5 @@
 # Collective Play Spring 18 Syllabus -- Work-in-progress
-   * Wednesday 12:10-3:05PM in Room 20
+   * Wednesdays 12:10-3:05PM in Room 20
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
@@ -27,10 +27,7 @@
    * Is "willingness to participate" a personality trait?
    * Is this a programming class?
 #### In-Class
-   * Exercises:
-        * Quiet Please!
-        * Telephone Tonge-Twisters.
-        * Strike a pose!
+   * Exercise: Hands
    * Overview of Design Patterns
    * Tech Tutorials
       * Setting up you local development environment
@@ -44,10 +41,19 @@
       * Keeping track of inputs by id
       * Separating inputs and outputs with namespaces
       * Normalizing data across clients
+  * Resources
+     * [explainshell.com](https://explainshell.com/explain?cmd=ls+-lah+file.ext): Shell commands deconstructed.
+     * [Shiffman: Node](http://shiffman.net/a2z/server-node/)
+     * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
+     * [Socket.IO - Get Started](https://socket.io/get-started/)
+     * [Socket.IO - Emit cheatsheet](https://socket.io/docs/emit-cheatsheet/)
+     * [Mozilla Developers Network](https://developer.mozilla.org/en-US/)
+
 #### Assignment: Hello World
    * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1b9LKOaFIROEpqssoxWhezXpO-kd9_njg_i2XblIOiFQ/edit#gid=0)
-   * Sign-up to implement 3 inputs.
+   * Sign-up to implement 2 inputs.
    * Bring 5 things to draw with next week.
+   * Wear clothes you can get dirty...forever.
 
 ***
 
@@ -65,9 +71,10 @@
       * Pollacky
       * Texteoke
       * Finger Drumming
-   * Tech Tutorials
-      * Git
-      * Deploying to the web: Digital Ocean
+   * Links
+      * [How to paint like Jackson Pollack](https://www.youtube.com/watch?v=EncR_T0faKM&t=150s)
+      * [Laura Krudener](https://www.youtube.com/watch?v=X13bHWaP40Y)
+      * [Paper by fiftythree](https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8)
 #### Assignment: Express yourself
    * Re-work your hello world example to be more expressive
    * Please bring ear-bud headphones for your mobile device to class next week.
